@@ -1,4 +1,4 @@
-# Authentication
+# Auth
 
 Node.js app - Authentication setup
 
@@ -8,11 +8,16 @@ Work in progress
 
 ### Prerequisites
 
-You need to install in your local environment the following software:
+You need to install the following packages:
 
 ```
-xxxxx
-xxxxx
+express
+mongoose
+passport
+passport-local
+passport-local-mongoose
+body-parser
+ejs
 ```
 
 ### Installing
